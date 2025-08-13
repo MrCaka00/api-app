@@ -1,0 +1,14 @@
+{
+  "build": {
+    "production": {
+      "android": {
+        "image": "ubuntu-22.04-jdk-17"
+      }
+    },
+    "preview": {
+      "android": {
+        "image": "ubuntu-22.04-jdk-17"
+      }
+    }
+  }
+}
